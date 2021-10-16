@@ -1,4 +1,5 @@
 # APN_Lodging
+https://www.apnlodging.com/
 Rental agency management solution with APN Lodging. Production-level Flutter Mobile Application for administration and client interaction at 11 rental properties. Guests of APN Lodging can download the mobile application to sign agreements, self check in, find recommended attractions, self check out, and more.
 
 ## Features
@@ -13,5 +14,3 @@ Rental agency management solution with APN Lodging. Production-level Flutter Mob
 * Google drive integration
 * full admin dashboard to mange guests and room information
 * admin mass upload of guests using CSV files straight from Airbnb
-
-https://www.apnlodging.com/
