@@ -3,7 +3,6 @@ Rental agency management solution with APN Lodging. Production-level Flutter Mob
 ## Available on App Store and Google Play
 * https://apps.apple.com/ca/app/apn-stay/id1591951240
 * https://play.google.com/store/apps/details?id=com.sherriff.apn
-
 ## Features
 * native code with flutter and dart
 * Firebase Cloud_Firestore and Firebase_Storage 
@@ -16,3 +15,5 @@ Rental agency management solution with APN Lodging. Production-level Flutter Mob
 * Google drive integration
 * full admin dashboard to mange guests and room information
 * admin mass upload of guests using CSV files straight from Airbnb
+## Demo 
+
