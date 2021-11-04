@@ -12,7 +12,7 @@ Rental agency management solution for APN Lodging. Available on the Apple App St
 * Search page for room info
 * Signatures using paint
 * Email mailer
-*Google Drive integration
+* Google Drive integration
 * Admin dashboard to mange guests
 * Upload guests using CSV files
 ## Demo 
