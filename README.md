@@ -16,4 +16,4 @@ Rental agency management solution with APN Lodging. Available on the Apple App S
 * Admin dashboard to mange guests
 * Upload guests using CSV files
 ## Demo 
-[<img alt="youtube link to watch demo" width="75%" src="pizzaStoreThumbnail.png" />](https://www.youtube.com/watch?v=cvNTddy40i0)
+[<img alt="youtube link to watch demo" width="75%" src="youtubeDemo.png" />](https://youtu.be/fBcVBSZvp7I)
