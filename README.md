@@ -1,5 +1,5 @@
 # APN_Stay https://www.apnlodging.com/
-Rental agency management solution with APN Lodging. Available on the Apple App Store and Google Play Store. Flutter Mobile Application for administration and client interaction at 11 rental properties. Guests of APN Lodging can download the mobile application to sign agreements, self check in, find recommended attractions, self check out, and more.
+Rental agency management solution for APN Lodging. Available on the Apple App Store and Google Play Store. Flutter Mobile Application for administration and client interaction at 11 rental properties. Guests of APN Lodging can download the mobile application to sign agreements, self check in, find recommended attractions, self check out, and more.
 ## Available on App Store and Google Play
 * https://apps.apple.com/ca/app/apn-stay/id1591951240
 * https://play.google.com/store/apps/details?id=com.sherriff.apn
