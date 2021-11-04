@@ -4,16 +4,16 @@ Rental agency management solution with APN Lodging. Available on the Apple App S
 * https://apps.apple.com/ca/app/apn-stay/id1591951240
 * https://play.google.com/store/apps/details?id=com.sherriff.apn
 ## Features
-* native code with flutter and dart
-* Firebase Cloud_Firestore and Firebase_Storage 
-* translation of all 11 rooms and UI text into 78 different languages
-* guest login and view account
-* navigate through rental room information .ie wifi password
-* search for specific room information
-* signatures using paint and widget to image
-* email signed rental agreements to guest
-* Google drive integration
-* full admin dashboard to mange guests and room information
-* admin mass upload of guests using CSV files straight from Airbnb
+* Cross-Platform with Flutter and Dart
+* Firebase Cloud_Firestore and Storage
+* Translation into 78 different languages
+* Guest login and view account
+* Sign in for room info and view offline
+* Search page for room info
+* Signatures using paint
+* Email mailer
+*Google Drive integration
+* Admin dashboard to mange guests
+* Upload guests using CSV files
 ## Demo 
 [<img alt="youtube link to watch demo" width="75%" src="pizzaStoreThumbnail.png" />](https://www.youtube.com/watch?v=cvNTddy40i0)
